@@ -1,0 +1,14 @@
+{
+  "name": "nacl-tutorial",
+  "version": "1.0.0",
+  "description": "LibSodium Tutorial using Typescript",
+  "main": "index.js",
+  "repository": "git@github.com:hmahal/LibSodium-Tutorial.git",
+  "author": "haro-freezd <harmanmahal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "duplex-json-stream": "^1.0.1",
+    "siginfo": "1.0.2",
+    "sodium-native": "^2.0.0"
+  }
+}
