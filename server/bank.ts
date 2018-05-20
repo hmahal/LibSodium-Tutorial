@@ -9,3 +9,5 @@ function server(socket: number): net.Server {
     jsonStreamSocket.on('data', (msg: string) => console.log(msg));
   })
 } 
+
+server(3876).listen();
